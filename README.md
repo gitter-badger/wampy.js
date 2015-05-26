@@ -1,6 +1,8 @@
 wampy.js
 ========
 
+[![Join the chat at https://gitter.im/KSDaemon/wampy.js](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/KSDaemon/wampy.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Simple WAMP (WebSocket Application Messaging Protocol) Javascript client-side implementation
 
 Table of Contents
